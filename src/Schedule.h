@@ -6,6 +6,8 @@ class Schedule{
 
     private:
         //need data structure that represents schedule
+        int schedule[24]; //actually represents a daily schedule
         
+
 
 }
